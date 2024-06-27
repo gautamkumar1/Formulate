@@ -1,14 +1,12 @@
-![pageform_thumbnail](https://github.com/Kliton/yt_pageform/assets/10452377/610b5935-5afd-4126-9dfd-a7064e18a0db)
 
-[Discord server for problems/help](https://discord.gg/Gc3ShuJrYE)
+# Formulate 
+A Formulate used to easily craft Form with drag and drop simplicity.
 
-[Youtube video](https://youtu.be/QGXUUXy0AMw)
+![Formulate Home Page](https://github.com/gautamkumar1/Formulate/assets/91417015/eaca280e-8bca-44dd-958b-90154abcbedc)
 
-[LIVE DEMO](https://yt-pageform.vercel.app/)
+[LIVE DEMO](https://formulate-three.vercel.app/)
 
-In this 4 hour tutorial we are going to build this full stack PageForm application.
-
-We are going to build this with:
+### Tech Stacks & Tools Used 
 - Nextjs 13  with AppRouter
 - Dnd-kit library
 - ServerActions
@@ -17,7 +15,7 @@ We are going to build this with:
 - Vercel PostgreSQL
 - Prisma as ORM
 
-Features: 
+### Features: 
 - Responsive
 - Create forms with a stunning drag and drop designer
 - Layout fields: Title, SubTitle, Spacer, Separator, Paragraph
